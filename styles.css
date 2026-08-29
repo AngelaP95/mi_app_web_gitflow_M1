@@ -4,6 +4,13 @@ body {
     margin-top: 50px;
 }
 
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
 h1 {
     color: #333;
 }
